@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SkillboxWork_2_11 {
+public class Work_2_11 {
 
     public void food(int milk, int powder, int eggs, int sugar, int oil, int apple) {
 
